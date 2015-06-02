@@ -1,0 +1,43 @@
+header {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#main-window{
+	margin: 0 auto;
+	max-width: 800px;
+	max-height: 600px;
+}
+
+.main-table{
+	margin: 0 auto;
+	margin-top: 10px;
+	width: 800px;
+	height: 600px;
+	background-color: lightslategrey;
+}
+
+.box{
+	border: 1px solid black;
+	height: 35px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+
+
+.bigger-box{
+	border: 1px solid black;
+	height: 15px;
+	width: 15px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.biggest-box{
+	border: 1px solid black;
+	height: 5px;
+	width: 5px;
+	margin: 0 auto;
+	padding: 0;
+}
